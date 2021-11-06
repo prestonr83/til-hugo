@@ -1,7 +1,6 @@
 baseURL = "https://til.rdz.io"
 title = "Today I Learned"
 theme = "zdoc"
-editBaseURL = "https://github.com/prestonr83/TIL"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 hasCJKLanguage = false

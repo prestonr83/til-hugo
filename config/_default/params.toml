@@ -3,7 +3,7 @@ logoText = "TIL"
 logoType = "short" # long, short
 description = "Today I Learned."
 
-themeOptions = ["light", "dark"]
+themeOptions = ["dark", "light"]
 
 useFaviconGenerator = true # https://www.favicon-generator.org/
 wideViewAsDefault = true
@@ -27,7 +27,7 @@ paginateWindow = 1
 taxoPaginate = 13
 taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
-github = "https://github.com/prestonr83/TIL"
+github = "https://github.com/prestonr83/"
 
 # comment
 enableComment = false

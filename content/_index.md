@@ -2,7 +2,7 @@
 title: "Today I Learned"
 date: 2021-11-04T12:40:03-04:00
 description: List of TILs
-
+editBaseURL: "https://github.com/prestonr83/til-hugo/tree/master/content/docs"
 landing:
   height: 500
   image: favicon/android-icon-192x192.png
