@@ -28,7 +28,7 @@ taxoPaginate = 13
 taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
 github = "https://github.com/prestonr83/"
-
+editBaseURL = "https://github.com/prestonr83/til-hugo/tree/master/content/"
 # comment
 enableComment = false
 disqus_shortname = ""

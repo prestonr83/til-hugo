@@ -14,7 +14,6 @@ rssLimit = 100
 googleAnalytics = ""
 
 disableKinds = ["taxonomyTerm"]
-custom_js = ["js/custom.js"]
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
