@@ -4,7 +4,7 @@ date: 2021-11-07T09:41:50-04:00
 description: Notes of Index Tuning
 ---
 
-Use `sp_BlitzIndex` to find problem queries and stats on existing indexes. [Info Here](docs/sql/blitz-tools/#Index-Tuning)
+Use `sp_BlitzIndex` to find problem queries and stats on existing indexes. [Info Here](docs/sql/blitz-tools/#index-tuning)
 
 ## Includes vs Index Column
 ----
