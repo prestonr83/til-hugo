@@ -121,4 +121,4 @@ EXEC dbo.sp_BlitzIndex @DatabaseName='' /* Database Name */
                     ,@TableName='';     /* Table Name */
 ```
 
-For more on Index tuning see [Index Tuning](index-tuning/)
+For more on Index tuning see [Index Tuning](docs/sql/index-tuning/)
